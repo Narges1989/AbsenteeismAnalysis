@@ -17,7 +17,7 @@ Understanding absenteeism patterns is essential for organizations to manage thei
 ## Contents
 
 - **Dataset**: Employee attendance data containing absenteeism records.
-- **Analysis Notebook**: Jupyter Notebook (`Absenteeism_Analysis.ipynb`) with detailed analysis and visualizations.
+- **Analysis Notebook**: Jupyter Notebook (`absenteeismdataanalysis.ipynb`) with detailed analysis and visualizations.
 - **Visualizations**: Charts and graphs illustrating key findings from the analysis.
 
 ## Getting Started
